@@ -1,0 +1,2 @@
+# prevmatrix
+Igekötő × Jegy mátrixok
