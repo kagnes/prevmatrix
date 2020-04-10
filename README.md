@@ -1,2 +1,3 @@
-# prevmatrix
-Igekötő × Jegy mátrixok
+# Igekötő × Jegy mátrixok
+
+Leírás hamarosan...
